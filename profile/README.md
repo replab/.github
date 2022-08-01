@@ -1,3 +1,3 @@
-## Hi there 👋
+## RepLAB - a toolbox for group and representation theory
 
-https://replab.github.com
+Have a look at our website: https://replab.github.io
